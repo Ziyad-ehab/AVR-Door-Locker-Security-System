@@ -1,0 +1,19 @@
+# Eclipse project metadata (not needed by others)
+.metadata/
+.settings/
+.cproject
+.project
+
+# Build output (compiled binaries, not source)
+Debug/
+Release/
+*.elf
+*.hex
+*.map
+*.lss
+*.o
+*.d
+
+# OS files
+.DS_Store
+Thumbs.db
