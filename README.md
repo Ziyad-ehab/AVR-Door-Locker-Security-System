@@ -215,16 +215,8 @@ The two MCUs communicate via a simple single-byte command protocol:
 - **Audible alert** — buzzer sounds throughout the entire lockout period
 - **Motion-aware locking** — door only re-locks after the PIR sensor confirms no motion
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 👤 Author
 
-**Ziyad Ehab**  
-Embedded Systems Diploma  
+**Ziyad Ehab**   
 [GitHub](https://github.com/Ziyad-ehab)
